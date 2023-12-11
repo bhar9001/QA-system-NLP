@@ -1,0 +1,9 @@
+datasets==2.14.6
+Flask==2.0.1
+Jinja2==3.0.3
+Werkzeug==2.0.3
+googletrans==4.0.0rc1
+googletrans
+scikit_learn==1.2.1
+torch==2.1.0
+transformers==4.35.0
